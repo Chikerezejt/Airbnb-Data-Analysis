@@ -247,7 +247,7 @@ I standardised listing prices across the ten cities into USD, making the compari
 
 The results are:
 
-|**City		|Average price	|Median price**|
+|City |Average price | Median price |
 |---|---:|---:|
 
 | Sydney | $149.46 | $80.78 |
@@ -502,8 +502,7 @@ The analysis examines two areas:
 
 
 
-**A. Distribution of Host Response Times
-**
+**A. Distribution of Host Response Times**
 
 | Host Response Time | Number of Hosts/Listings | Percentage |
 |---|---:|---:|
