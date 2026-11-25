@@ -247,27 +247,28 @@ I standardised listing prices across the ten cities into USD, making the compari
 
 The results are:
 
-**City		Average price	Median price**
+|**City		|Average price	|Median price**|
+|---|---:|---:|
 
-Sydney		$149.46		$80.78
+| Sydney | $149.46 | $80.78 |
 
-New York	$142.84		$99.00
+| New York | $142.84 | $99.00 |
 
-Cape Town	$142.05		$63.14
+| Cape Town | $142.05 | $63.14 |
 
-Rio de Janeiro	$128.45		$48.43
+| Rio de Janeiro | $128.45 | $48.43 |
 
-Paris		$124.28		$87.91
+| Paris	| $124.28 | $87.91 |
 
-Rome		$115.50		$71.43
+| Rome | $115.50 | $71.43 |
 
-Hong Kong	$95.10		$49.20
+| Hong Kong | $95.10 | $49.20 |
 
-Mexico City	$62.24		$35.80
+| Mexico City | $62.24 | $35.80 |
 
-Bangkok	$61.41	$32.51
+| Bangkok | $61.41 | $32.51 |
 
-Istanbul	$10.57		$5.00
+| Istanbul | $10.57 | $5.00 |
 
 
 
@@ -394,31 +395,20 @@ For example, a property with a perfect score based on one review would provide l
 
 The analysis identifies the following listings with the highest review counts:
 
+### Top 10 Listings by Number of Reviews
 
-
-**Listing name						City		Number of reviews**
-
-Sweet \& cosy room next to Canal Saint Martin		Paris		891
-
-Cheung Chau Island listing				Hong Kong	828
-
-A Journey Into The Heart Of Paris			Paris		796
-
-Bed in 8 Bed Dorm					Paris		762
-
-B\&B Rione Monti						Rome		754
-
-Enjoy great views of the City with FREE PARKING!	New York	753
-
-Caroline's cheap rate near Termini			Rome		717
-
-Bed in a 4 Bed Mixed Dormitory				Paris		710
-
-Colonna's Home in the heart of Rome			Rome		702
-
-Brand new Modern flat Central Paris Boutique Hotel	Paris		700
-
-
+| Listing Name | City | Number of Reviews |
+|---|---|---:|
+| Sweet & cosy room next to Canal Saint Martin | Paris | 891 |
+| Cheung Chau Island listing | Hong Kong | 828 |
+| A Journey Into The Heart Of Paris | Paris | 796 |
+| Bed in 8 Bed Dorm | Paris | 762 |
+| B&B Rione Monti | Rome | 754 |
+| Enjoy great views of the City with FREE PARKING! | New York | 753 |
+| Caroline's cheap rate near Termini | Rome | 717 |
+| Bed in a 4 Bed Mixed Dormitory | Paris | 710 |
+| Colonna's Home in the heart of Rome | Rome | 702 |
+| Brand new Modern flat Central Paris Boutique Hotel | Paris | 700 |
 
 The table shows that Paris and Rome feature prominently among the listings with the highest review counts.
 
@@ -512,22 +502,16 @@ The analysis examines two areas:
 
 
 
-**A. Distribution of host response times**
+**A. Distribution of Host Response Times
+**
 
-
-
-**Host response time	Number of hosts/listings	Percentage**
-
-Missing (NULL)		128,782				46.0%
-
-Within an hour		83,464				29.8%
-
-Within a few hours	28,891				10.3%
-
-Within a day		23,425				8.4%
-
-A few days or more	15,150				5.4%
-
+| Host Response Time | Number of Hosts/Listings | Percentage |
+|---|---:|---:|
+| Missing (NULL) | 128,782 | 46.0% |
+| Within an hour | 83,464 | 29.8% |
+| Within a few hours | 28,891 | 10.3% |
+| Within a day | 23,425 | 8.4% |
+| A few days or more | 15,150 | 5.4% |
 
 
 The most important observation is that 46% of the records have missing host response-time information.
@@ -536,31 +520,20 @@ Among the records with a reported response time, approximately 55.7% fall within
 
 
 
-**B. Average response and acceptance rates by city**
+**B. Average Host Response and Acceptance Rates by City**
 
-
-
-**City		Average response rate	Average acceptance rate**
-
-Cape Town	91%			80%
-
-Mexico City	89%			89%
-
-New York	89%			80%
-
-Sydney		88%			79%
-
-Rome		87%			90%
-
-Paris		86%			81%
-
-Bangkok		85%			91%
-
-Istanbul	83%			85%
-
-Hong Kong	83%			80%
-
-Rio de Janeiro	83%			76%
+| City | Average Response Rate | Average Acceptance Rate |
+|---|---:|---:|
+| Cape Town | 91% | 80% |
+| Mexico City | 89% | 89% |
+| New York | 89% | 80% |
+| Sydney | 88% | 79% |
+| Rome | 87% | 90% |
+| Paris | 86% | 81% |
+| Bangkok | 85% | 91% |
+| Istanbul | 83% | 85% |
+| Hong Kong | 83% | 80% |
+| Rio de Janeiro | 83% | 76% |
 
 
 
