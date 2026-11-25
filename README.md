@@ -247,29 +247,19 @@ I standardised listing prices across the ten cities into USD, making the compari
 
 The results are:
 
-|City |Average price | Median price |
+
+| City | Average Price (USD) | Median Price (USD) |
 |---|---:|---:|
-
 | Sydney | $149.46 | $80.78 |
-
 | New York | $142.84 | $99.00 |
-
 | Cape Town | $142.05 | $63.14 |
-
 | Rio de Janeiro | $128.45 | $48.43 |
-
-| Paris	| $124.28 | $87.91 |
-
+| Paris | $124.28 | $87.91 |
 | Rome | $115.50 | $71.43 |
-
 | Hong Kong | $95.10 | $49.20 |
-
 | Mexico City | $62.24 | $35.80 |
-
 | Bangkok | $61.41 | $32.51 |
-
 | Istanbul | $10.57 | $5.00 |
-
 
 
 ###### Key findings:
